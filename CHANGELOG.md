@@ -1,3 +1,55 @@
+## [2.2.18](https://github.com/atos-actions/upload-artifact/compare/v2.2.17...v2.2.18) (2026-08-16)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump the atos-actions group with 3 updates ([#313](https://github.com/atos-actions/upload-artifact/issues/313)) ([6f8cca2](https://github.com/atos-actions/upload-artifact/commit/6f8cca2b4d3aa5fafa43a018fe4cf1b554365ca2))
+
+## [2.2.17](https://github.com/atos-actions/upload-artifact/compare/v2.2.16...v2.2.17) (2026-08-13)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump the atos-actions group with 3 updates ([#312](https://github.com/atos-actions/upload-artifact/issues/312)) ([2c409b8](https://github.com/atos-actions/upload-artifact/commit/2c409b8d4b7a2d93231da170c092166bb9bd1d9c))
+
+## [2.2.16](https://github.com/atos-actions/upload-artifact/compare/v2.2.15...v2.2.16) (2026-08-12)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump the atos-actions group with 3 updates ([#311](https://github.com/atos-actions/upload-artifact/issues/311)) ([60526b9](https://github.com/atos-actions/upload-artifact/commit/60526b9d513e4fd9b464d836f9bb11cb7d2574ca))
+
+## [2.2.15](https://github.com/atos-actions/upload-artifact/compare/v2.2.14...v2.2.15) (2026-08-09)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump semantic-release from 25.0.8 to 25.0.9 in the semantic-release group ([#310](https://github.com/atos-actions/upload-artifact/issues/310)) ([972d098](https://github.com/atos-actions/upload-artifact/commit/972d098b68c69a48ea0aa9b8050ba4ba20ff623f))
+
+## [2.2.14](https://github.com/atos-actions/upload-artifact/compare/v2.2.13...v2.2.14) (2026-08-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.4 to 3.1.5 ([#308](https://github.com/atos-actions/upload-artifact/issues/308)) ([915836c](https://github.com/atos-actions/upload-artifact/commit/915836c98cf5bc2524abeaf76eef1146d9183a69))
+* **deps:** bump js-yaml from 4.2.0 to 4.3.1 ([#309](https://github.com/atos-actions/upload-artifact/issues/309)) ([38e69e0](https://github.com/atos-actions/upload-artifact/commit/38e69e002a1ecc2b328a00365ccd4dad6b14eb88))
+
+## [2.2.13](https://github.com/atos-actions/upload-artifact/compare/v2.2.12...v2.2.13) (2026-08-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump the semantic-release group across 1 directory with 2 updates ([#306](https://github.com/atos-actions/upload-artifact/issues/306)) ([d2e31a0](https://github.com/atos-actions/upload-artifact/commit/d2e31a00c4d765a3858a034038500e85e9a99b6b))
+* **deps:** bump the atos-actions group across 1 directory with 3 updates ([#307](https://github.com/atos-actions/upload-artifact/issues/307)) ([fd5c33a](https://github.com/atos-actions/upload-artifact/commit/fd5c33aa15ffaf39eaacfbc46fb5dd597ea26d4c))
+
+## [2.2.12](https://github.com/atos-actions/upload-artifact/compare/v2.2.11...v2.2.12) (2026-08-03)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump the atos-actions group with 3 updates ([#305](https://github.com/atos-actions/upload-artifact/issues/305)) ([9d0881a](https://github.com/atos-actions/upload-artifact/commit/9d0881abd6fb64fcfe7be1de3188e03acd64d008))
+
+## [2.2.11](https://github.com/atos-actions/upload-artifact/compare/v2.2.10...v2.2.11) (2026-08-03)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.3 to 3.1.4 ([#303](https://github.com/atos-actions/upload-artifact/issues/303)) ([f18ae69](https://github.com/atos-actions/upload-artifact/commit/f18ae696f1afd00a3e3f996c904fb44c90dc43c5))
+* **deps-dev:** bump prettier from 3.9.5 to 3.9.6 ([#302](https://github.com/atos-actions/upload-artifact/issues/302)) ([a5c6a7a](https://github.com/atos-actions/upload-artifact/commit/a5c6a7ac305c5677c0b9c123cd223a86def87497))
+* **deps:** bump actions/setup-node from 6 to 7 ([#298](https://github.com/atos-actions/upload-artifact/issues/298)) ([5dd25c2](https://github.com/atos-actions/upload-artifact/commit/5dd25c2c2a970726f8ba91cc188ab566657e66b5))
+
 ## [2.2.10](https://github.com/atos-actions/upload-artifact/compare/v2.2.9...v2.2.10) (2026-07-19)
 
 ### Dependencies and Other Build Updates
